@@ -1,3 +1,3 @@
 ProgrammersQuest
 ================
-a javascript game for js-programmers.
+The game presents Rogue-like styled game for js-programmers.
